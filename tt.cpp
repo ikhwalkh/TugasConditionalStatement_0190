@@ -38,7 +38,7 @@ int main()
 {
     float berat, tinggi, bmi;
 
-    cout << "--- Selamat Datang Mahasiswa Kelas D 2025 ---" << endl;
+    cout << "--- Selamat Datang Mahasiswa Kelas D 2025 ---" << endl; //di dapatkan dari hasil menyontek code sebelumnya
 
     inputData(berat, tinggi);
 
