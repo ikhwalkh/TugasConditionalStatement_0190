@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// prosedur untuk memasukkan data
+// memasukkan input data nya
 void inputData(float &berat, float &tinggi)
 {
     cout << "Masukkan berat badan (kg): ";
